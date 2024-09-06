@@ -5,7 +5,7 @@ model:
   end_sym: "###"
   low_resource: True
   prompt_template: '###Human: {} ###Assistant: '
-  ckpt: 'please set this value to the path of pretrained checkpoint'
+  ckpt: '/kaggle/input/pretrained_minigpt4_llama2_7b.pth/pytorch/1/1/pretrained_minigpt4_llama2_7b.pth'
 
 
 datasets:
